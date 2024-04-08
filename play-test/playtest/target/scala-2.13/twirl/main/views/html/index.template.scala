@@ -26,8 +26,9 @@ object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.Html
 Seq[Any](format.raw/*1.4*/("""
 
 """),_display_(/*3.2*/main("Welcome to Play")/*3.25*/ {_display_(Seq[Any](format.raw/*3.27*/("""
-  """),format.raw/*4.3*/("""<h1>Welcome to 千杀的CSYE7200!</h1>
-""")))}),format.raw/*5.2*/("""
+  """),format.raw/*4.3*/("""<h1>Welcome to CSYE7200!</h1>
+
+""")))}),format.raw/*6.2*/("""
 """))
       }
     }
@@ -45,9 +46,9 @@ Seq[Any](format.raw/*1.4*/("""
               /*
                   -- GENERATED --
                   SOURCE: app/views/index.scala.html
-                  HASH: 48defd0dd41a0adb5b721f9663fe9b907a9dff8d
-                  MATRIX: 722->1|818->3|848->8|879->31|918->33|948->37|1012->72
-                  LINES: 21->1|26->1|28->3|28->3|28->3|29->4|30->5
+                  HASH: eb062c0ff62ada0a33638f9f45917bdc982861d8
+                  MATRIX: 722->1|818->3|848->8|879->31|918->33|948->37|1011->71
+                  LINES: 21->1|26->1|28->3|28->3|28->3|29->4|31->6
                   -- GENERATED --
               */
           

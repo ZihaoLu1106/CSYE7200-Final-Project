@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\JANFAN\Documents\GitHub\play-test\playtest\app\views\main.scala.html:23:26: value PageController is not a member of object controllers.routes[0m
+[0m[[0m[31merror[0m] [0m[0mdid you mean HomeController?[0m
+[0m[[0m[31merror[0m] [0m[0m        <a href="@routes.PageController.page2()">Go to Page 2</a>[0m
+[0m[[0m[31merror[0m] [0m[0m                         ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
